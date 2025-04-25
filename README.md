@@ -6,6 +6,7 @@ Ejecuta los siguientes comandos para configurar tu usuario y correo dentro de tu
 ```bash
 $ git config --global user.name "mergutm"
 $ git config --global user.email "merg@gs.utm.mx"
+ fuck off
 ```
 
 ```bash
