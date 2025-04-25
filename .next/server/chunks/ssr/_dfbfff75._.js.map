@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///home/salas/Documentos/barralateral/src/app/page.tsx"],"sourcesContent":["import { redirect } from 'next/navigation';\n\nexport default function HomePage() {\n\n  redirect('/dashboard/main');\n\n}"],"names":[],"mappings":";;;AAAA;AAAA;;AAEe,SAAS;IAEtB,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;AAEX","debugId":null}}]
+}
